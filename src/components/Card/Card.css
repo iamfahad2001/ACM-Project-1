@@ -1,0 +1,119 @@
+.Card-main{
+    background: #000000;
+    height: 750px;
+}
+.B-text{
+    color: #ffffff;
+    font-size: 25px;
+    padding-top: 35px;
+    text-align: center;
+}
+
+.Card1{
+    height: 435px;
+    background-color: #ffffff;
+    width: 270px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.Card1-h3{
+    padding-left: 10px;
+}
+.Bdr{
+     border-bottom: 1px solid black ;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Card-btn-main{
+    margin-left: 25px;
+    margin-top: 150px;
+    font-size: 20px;
+}
+.btn-Card{
+    background: #005cbf;
+    color: #ffffff;
+    border: 1px solid #005cbf;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 5px 45px;
+}
+
+/*card 2*/
+
+
+.Card2{
+    color: #ffffff;
+    height: 435px;
+    background-color: #005cbf;
+    width: 270px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.Card2-h3{
+    padding-left: 10px;
+}
+.Bdr2{
+    border-bottom: 1px solid #ffffff ;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Card2-btn-main{
+    margin-left: 30px;
+    margin-top: 132px;
+    font-size: 20px;
+}
+.btn-Card2{
+    color: black;
+    background: #ffffff;
+    border: 1px solid #005cbf;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 5px 45px;
+}
+
+/*card3*/
+
+.Card3{
+    height: 435px;
+    background-color: #ffffff;
+    width: 270px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.Card3-h3{
+    padding-left: 10px;
+}
+.Bdr3{
+    border-bottom: 1px solid black ;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Card3-btn-main{
+    margin-left: 32px;
+    margin-top: 92px;
+    font-size: 20px;
+}
+.btn-Card3{
+    background: #005cbf;
+    color: #ffffff;
+    border: 1px solid #005cbf;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 5px 45px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column {
+    float: left;
+    width: 270px;
+    padding: 69px;
+    height: 350px;
+    margin: 0px 10px;
+}

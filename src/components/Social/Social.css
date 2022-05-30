@@ -1,0 +1,12 @@
+.Social-btn{
+    margin-left: 60px;
+    font-size: 25px;
+}
+.btn-social{
+    background: #005cbf;
+    color: #ffffff;
+    border: 1px solid #005cbf;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 10px 22px;
+}

@@ -1,0 +1,12 @@
+.btn-main{
+    margin-left: 580px;
+    font-size: 25px;
+
+}
+.btn-white{
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 10px 22px;
+}
